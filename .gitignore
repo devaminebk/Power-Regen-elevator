@@ -1,0 +1,23 @@
+# Simulink cache and build artifacts
+*.slxc
+slprj/
+
+# Simulink autosave and backup files
+*.slx.autosave
+*.slx.r20*
+*.mdl.autosave
+*.mdl.r20*
+
+# MATLAB autosave and temporary files
+*.asv
+*.m~
+*.mat~
+
+# MATLAB code generation and MEX files
+*_ert_rtw/
+*_grt_rtw/
+*.mex*
+
+# OS generated files
+.DS_Store
+Thumbs.db
